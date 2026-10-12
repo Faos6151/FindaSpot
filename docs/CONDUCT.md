@@ -25,17 +25,50 @@ Examples of unacceptable behavior include:
 * Publishing others' private information, such as a physical or email address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
+# 305-Soft Policy:
+All team members must put phones away and close non-meeting-related applications during all team meetings, standups, planning sessions, retrospectives, and ad-hoc discussions. Laptops should be used only for meeting-related tasks (note-taking, screen sharing, documentation, Jira updates). This policy is mandatory per CSC 305 course requirements and supports focus, psychological safety, and collective ownership of sprint goals.
+
+Consequences for violating this policy are outlined in the Enforcement Guidelines section below.
+
 ## Enforcement Responsibilities
 
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+The Project Leader and Scrum Master are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
-Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+The Project Leader and Scrum Master have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+This Code of Conduct applies within all community spaces, including:
+- In-person meetings
+- In-person meetings (during class and project sections)
+- Virtual meetings (Zoom)
+- Asynchronous communication (group chat, email, GitHub)
+- Code repositories and pull requests (GitHub, including commit messages and review comments)
+- Project documentation
+
+It also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+
+## Decisions
+
+## Attendance
+
+
+## Assignments ( Tasks )
+
 
 ## Enforcement
+
+## Participation
+
+## Meeting Times and Locations/Mediums
+
+## Agenda and Minutes/Notes
+
+## Promptness
+
+## Conversational Courtesies
+
+
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [INSERT CONTACT METHOD]. All complaints will be reviewed and investigated promptly and fairly.
 
