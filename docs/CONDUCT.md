@@ -549,10 +549,9 @@ By signing below, all team members acknowledge that they have read, understood, 
 
 ### Team Member Signatures
 
-#### Team Member 1: [Name]
+#### Scrum Master/Team Member 1: [Name]
 ![Team Member 1 Signature](https://[your-google-drive-link]/Team-Member-1-Signature.png)
 
-**Commit Hash:** [GitHub commit SHA]  
 **Commit Date:** [Date]
 
 ---
@@ -560,7 +559,6 @@ By signing below, all team members acknowledge that they have read, understood, 
 #### Team Member 2: [Name]
 ![Team Member 2 Signature](https://[your-google-drive-link]/Team-Member-2-Signature.png)
 
-**Commit Hash:** [GitHub commit SHA]  
 **Commit Date:** [Date]
 
 ---
@@ -568,7 +566,6 @@ By signing below, all team members acknowledge that they have read, understood, 
 #### Team Member 3: [Name]
 ![Team Member 3 Signature](https://[your-google-drive-link]/Team-Member-3-Signature.png)
 
-**Commit Hash:** [GitHub commit SHA]  
 **Commit Date:** [Date]
 
 ---
@@ -576,41 +573,10 @@ By signing below, all team members acknowledge that they have read, understood, 
 #### Team Member 4: [Name]
 ![Team Member 4 Signature](https://[your-google-drive-link]/Team-Member-4-Signature.png)
 
-**Commit Hash:** [GitHub commit SHA]  
 **Commit Date:** [Date]
 
 ---
 
-#### Team Member 5: [Name]
-![Team Member 5 Signature](https://[your-google-drive-link]/Team-Member-5-Signature.png)
-
-**Commit Hash:** [GitHub commit SHA]  
-**Commit Date:** [Date]
-
----
-
-### Leadership Acknowledgment
-
-#### Scrum Master: [Name]
-![Scrum Master Signature](https://[your-google-drive-link]/Scrum-Master-Signature.png)
-
-**Commit Hash:** [GitHub commit SHA]  
-**Commit Date:** [Date]
-
----
-
-#### Product Owner: [Name]
-![Product Owner Signature](https://[your-google-drive-link]/Product-Owner-Signature.png)
-
-**Commit Hash:** [GitHub commit SHA]  
-**Commit Date:** [Date]
-
----
-
-#### Instructor Acknowledgment: [Dr./Prof. Name]
-*Instructor review of Code of Conduct acknowledged. Changes to enforcement processes may be recommended by instructor as needed.*
-
----
 
 ## Document Version & History
 
