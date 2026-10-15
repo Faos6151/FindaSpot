@@ -600,7 +600,7 @@ By signing below, all team members acknowledge that they have read, understood, 
 
 #### Team Member 2: \[Name\]
 
-![Team Member 2 Signature]()
+<img src="20261015_095755.jpg" style="transform: rotate(270deg); width: 100px"></img>
 
 **Commit Date:** \[Date\]
 
