@@ -606,9 +606,9 @@ By signing below, all team members acknowledge that they have read, understood, 
 
 ---
 
-#### Team Member 3: \Garrison Aldrich\
+#### Team Member 3: Garrison Aldrich
 
-<img width="1606" height="816" alt="305sign" src="https://github.com/user-attachments/assets/e3fb546c-7fb0-4426-b802-416b2ecd3253" />
+<img width="1406" height="516" alt="305sign" src="https://github.com/user-attachments/assets/e3fb546c-7fb0-4426-b802-416b2ecd3253" />
 
 
 **Commit Date:** 10/15/26
