@@ -598,11 +598,11 @@ By signing below, all team members acknowledge that they have read, understood, 
 
 ---
 
-#### Team Member 2: \[Name\]
+#### Team Member 2: OgoOluwa Adetunji
 
-![Team Member 2 Signature]()
-
-**Commit Date:** \[Date\]
+<img src="20261015_095755-1.jpg" style="width: 100px"></img>
+<br></br>
+**Commit Date:** 10/15/2026
 
 ---
 
