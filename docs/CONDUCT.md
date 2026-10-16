@@ -654,4 +654,5 @@ For questions about this Code of Conduct, see the [**Contributor Covenant FAQ**]
 4. **Make the image shareable** with a public link (Anyone with the link can view)  
 5. **Copy the shareable link** and embed it in this document using the markdown format below:
 
-\!\[Your Name Signature\](https\://your-google-drive-link-here)  
+\!\[Your Name Signature\](https\://your-google-drive-link-here)
+https://drive.google.com/file/d/1SpExEYFPyqYCR-2DGjFLmX7biocmc4zl/view?usp=sharing 
