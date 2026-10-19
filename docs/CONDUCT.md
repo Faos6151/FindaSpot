@@ -598,18 +598,17 @@ By signing below, all team members acknowledge that they have read, understood, 
 
 ---
 
-#### Team Member 2: \[Name\]
+#### Team Member 2: OgoOluwa Adetunji
 
-![Team Member 2 Signature]()
-
-**Commit Date:** \[Date\]
+<img src="20261015_095755-1.jpg" style="width: 100px"></img>
+<br></br>
+**Commit Date:** 10/15/2026
 
 ---
 
 #### Team Member 3: Garrison Aldrich
 
-<img width="1406" height="516" alt="305sign" src="https://github.com/user-attachments/assets/e3fb546c-7fb0-4426-b802-416b2ecd3253" />
-
+<img style="width: 100px"  src="https://github.com/user-attachments/assets/4f95446c-ce2b-442c-b2fe-37bf8712fed3" />
 
 **Commit Date:** 10/15/26
 
@@ -641,18 +640,4 @@ For questions about this Code of Conduct, see the [**Contributor Covenant FAQ**]
 
 ---
 
-**Last Updated:** \[10/13/2026\]
-
----
-
-## Instructions for Team Members
-
-### How to Add Your Signature
-
-1. **Write your signature** on a piece of paper by hand  
-2. **Take a clear photo** of your signature  
-3. **Upload the image** to your personal Google Drive  
-4. **Make the image shareable** with a public link (Anyone with the link can view)  
-5. **Copy the shareable link** and embed it in this document using the markdown format below:
-
-\!\[Your Name Signature\](https\://your-google-drive-link-here)  
+**Last Updated:** \[10/19/2026\]
