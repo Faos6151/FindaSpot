@@ -25,7 +25,7 @@ Observation Statement: Most students, if they do expirence  traffic, expirence i
   
 
 
-
+Garrison's Observations
 
 Observation 3:
 
@@ -37,3 +37,17 @@ Supporting Data: According to our data 64.3% of URI Commuter pass holders have t
 Team Action (if any):
 
       etc with one observation for each team member.  Each team member should commit their observation as a change to UserResarch.md.  The graders will look for this in the commit history.
+
+Logan's Observations
+
+Observation 4: 
+
+- Observation Statement: Most resident parking pass holders are based in plains lot, but would prefer other lots
+
+- Supporting Data: 
+  - URI Resident Parking pass holder
+    - Q: Which lots do you usually park in as a Resident?
+    - Q: In reference to the question above, Of the lot(s) you park in, is that your preferred lot? (Put yes if it is, if not please put your preferred parking lot)
+
+- Team Action (if any): 
+  - Functionality can be added so people can get report notifications for specific lots that they select.
