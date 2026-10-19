@@ -614,11 +614,12 @@ By signing below, all team members acknowledge that they have read, understood, 
 
 ---
 
-#### Team Member 4: \[Name\]
+#### Team Member 4: Adrian Pimentel
 
-![Team Member 4 Signature]()
+<img src="IMG_7443.jpeg" style="width: 100px"></img>
+<br></br>
 
-**Commit Date:** \[Date\]
+**Commit Date:** 10/19/2026
 
 ---
 
