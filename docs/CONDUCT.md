@@ -592,7 +592,7 @@ By signing below, all team members acknowledge that they have read, understood, 
 
 #### Scrum Master/Team Member 1: Logan Rekowski
 
-<img src="logan_sig.jpg" style="width: 100px"></img>
+<img src="IMG_2694.jpeg" style="width: 100px"></img>
 <br></br>
 
 **Commit Date:** 10/19/2026
