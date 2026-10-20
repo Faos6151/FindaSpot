@@ -547,7 +547,7 @@ If a team member reports a violation that feels serious (harassment, discriminat
 
 ## Contact Information
 
-**Scrum Master:** \[Team member name\] – \[Email address\]
+**Scrum Master:** Logan Rekowski – logan.rekowski@uri.edu
 
 **Product Owner:** \[Product Owner name\] – \[Email address\]
 
@@ -590,11 +590,12 @@ By signing below, all team members acknowledge that they have read, understood, 
 
 ### Team Member Signatures
 
-#### Scrum Master/Team Member 1: \[Name\]
+#### Scrum Master/Team Member 1: Logan Rekowski
 
-![Team Member 1 Signature]()
+<img src="IMG_2694.jpeg" style="width: 100px"></img>
+<br></br>
 
-**Commit Date:** \[Date\]
+**Commit Date:** 10/19/2026
 
 ---
 
@@ -614,11 +615,12 @@ By signing below, all team members acknowledge that they have read, understood, 
 
 ---
 
-#### Team Member 4: \[Name\]
+#### Team Member 4: Adrian Pimentel
 
-![Team Member 4 Signature]()
+<img src="IMG_7443.jpeg" style="width: 100px"></img>
+<br></br>
 
-**Commit Date:** \[Date\]
+**Commit Date:** 10/19/2026
 
 ---
 
@@ -626,7 +628,7 @@ By signing below, all team members acknowledge that they have read, understood, 
 
 | Version | Date | Changes | Approved By |
 | :---- | :---- | :---- | :---- |
-| 1.0 | \[Date\] | Initial Code of Conduct created for CSC 305 Team | Team & Scrum Master |
+| 1.0 | 10/15/2026 | Initial Code of Conduct created for CSC 305 Team | Team & Scrum Master |
 
 ---
 

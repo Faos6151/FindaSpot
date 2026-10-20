@@ -1,20 +1,31 @@
-As a team, analyze the results of your focus group survey.  In the docs folder of your Team repo, create a file called UserResarch.md. Use GitHub Markdown Language to list your observations in the form:
+OgoOluwa's Observations
 
-Observation 1: (
+Observation 1: 
 
-Observation Statement:
+- Observation Statement: A lot of communter go to Plains and Fine Arts.
 
-Supporting Data:
+- Supporting Data: 
+  - URI Resident Parking pass holder
+    - Q: Which lot(s) do you usually park in as a Commuter?
+  - URI Commuter pass holder
+    - Q: In reference to the question above, Of the lot(s) you park in, is that your preferred lot?
+    - Q: Of the lot(s) you listed above, are these your preferred lots? If not, please list your preferred lot below. If they are, just put "Yes"
 
-Team Action (if any):
+- Team Action (if any): 
+  - We will add an notification system where users can post lot information, especially for bussier lots.
 
-Observation 2:
 
-Observation Statement:
+Observation 2: 
 
-Supporting Data:
+Observation Statement: Most students, if they do expirence  traffic, expirence it during the morning ( 8am-9 ) to latter afternooon ( 3-5 )
 
-Team Action (if any):
+- Supporting Data:
+  - URI Commuter pass holder
+    - Do you experience heavy traffic coming to/leaving campus? If so, please list the general times you come to/leave campus at below.
+  
+
+
+Garrison's Observations
 
 Observation 3:
 
@@ -26,3 +37,17 @@ Supporting Data: According to our data 64.3% of URI Commuter pass holders have t
 Team Action (if any):
 
       etc with one observation for each team member.  Each team member should commit their observation as a change to UserResarch.md.  The graders will look for this in the commit history.
+
+Logan's Observations
+
+Observation 4: 
+
+- Observation Statement: Most resident parking pass holders are based in plains lot, but would prefer other lots
+
+- Supporting Data: 
+  - URI Resident Parking pass holder
+    - Q: Which lots do you usually park in as a Resident?
+    - Q: In reference to the question above, Of the lot(s) you park in, is that your preferred lot? (Put yes if it is, if not please put your preferred parking lot)
+
+- Team Action (if any): 
+  - Functionality can be added so people can get report notifications for specific lots that they select.
