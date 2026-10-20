@@ -23,8 +23,6 @@ Observation Statement: Most students, if they do expirence  traffic, expirence i
   - URI Commuter pass holder
     - Do you experience heavy traffic coming to/leaving campus? If so, please list the general times you come to/leave campus at below.
   
-
-
 Garrison's Observations
 
 Observation 3:
@@ -34,13 +32,21 @@ Observation Statement: From our survey data we observed that URI Commuter pass h
 Supporting Data: According to our data 64.3% of URI Commuter pass holders have trouble getting into desired lots on a regular basis.
 <img width="338" height="171" alt="image" src="https://github.com/user-attachments/assets/6d025b4f-c835-48f1-a6b1-dcd94f72ce5e" />
 
-Team Action (if any):
+Observation 4:
 
-      etc with one observation for each team member.  Each team member should commit their observation as a change to UserResarch.md.  The graders will look for this in the commit history.
+Observation Statement: Some students forget to buy the correct parking permit or are unsure of where they can park to not receive a ticket.
+
+Supporting Data: 
+  - URI Commuter Pass Holder
+    -Q: Do you have any other issues with URI parking other then what was listed above?
+        -A: "Forgetting to buy a parking ticket"
+        -A: "i've gotten tickets that have just been appealed anyways because it was stupid to give me."
+
+Team Action (if any): We can add specific lot details to let users what lots require specific passes. Add lot stats that show what lots received the most tickets. 
 
 Logan's Observations
 
-Observation 4: 
+Observation 5: 
 
 - Observation Statement: Most resident parking pass holders are based in plains lot, but would prefer other lots
 
