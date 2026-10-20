@@ -36,11 +36,11 @@ Observation 4:
 
 Observation Statement: Some students forget to buy the correct parking permit or are unsure of where they can park to not receive a ticket.
 
-Supporting Data: 
+- Supporting Data: 
   - URI Commuter Pass Holder
-    -Q: Do you have any other issues with URI parking other then what was listed above?
-        -A: "Forgetting to buy a parking ticket"
-        -A: "i've gotten tickets that have just been appealed anyways because it was stupid to give me."
+    - Q: Do you have any other issues with URI parking other then what was listed above?
+    - A: "Forgetting to buy a parking ticket"
+    - A: "i've gotten tickets that have just been appealed anyways because it was stupid to give me."
 
 Team Action (if any): We can add specific lot details to let users what lots require specific passes. Add lot stats that show what lots received the most tickets. 
 
