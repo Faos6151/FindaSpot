@@ -1,21 +1,52 @@
-As a team, create an ABTEST.md file in the docs folder of our team’s repo.  Each team member is to commit  to ABTEST.md a description of a different A/B test using this format:
+# A/B Testing
 
-A/B Test Name:  Make a meaningful name for the test. For example  "Signup/Sign In 1 screen or 2 screens", could be a title for an A/B test to determine if users prefer having account creation and login on a single screen, or two screens.
+## A/B Test Name: "Login Page User Message"
 
-User Story Number: For instance, the "Signup/Sign In 1 screen or 2 screens" A/B test would be a task under US1 (Account Creation). 
+**User Story Number:** US2 (Login)
 
-Metrics:  Your team's HEART metrics that this A/B test measures.
+**Metrics:**
+- **Happiness:** Measure user satisfaction with the login experience.
+- **Task Success:** Measure the percentage of users who successfully log in.
+- **Adoption:** Measure the number of users who successfully log in and begin using the application.
 
-Hypothesis: State your hypothesis for this A/B test
+**Hypothesis:**
 
-What problem are we trying to solve? Its impact? (e.g. how big this problem is to our customers?) In formulating the hypothesis, first you need to define the problem you want to solve. For example, you are an SaaS that offers free trial and you want to improve Adoption. But that problem might be too broad to form an A/B test as you can simply test one variable in an A/B test to be effective (otherwise you won’t know which variable is causing the change). So to narrow down the problem you want to solve, you need to find out the bottle-neck in the conversion funnel – where do people drop off the most? Are there any key information or call-to-action buttons that you expect people to read/click but they didn’t? 
+We hypothesize that changing the welcome message on the login page to be more engaging, welcoming, and informative will increase the number of successful user logins because users may be more encouraged to log in when greeted with a friendly message that clearly communicates the value of using the application.
 
-After narrowing down the problem you want to solve, you then need to make a hypothesis as to what causes those bottlenecks and what you can do to improve. For example, you noticed most of the visitors will visit your “Features” page but very few of them will actually scroll past even half of the page so many features that you think are important are not actually viewed by the visitors. To improve this, one hypothesis might be using tab or toggle list design to make your page shorter and visitors can select to dig deeper into content that they are interested in by expanding the content. Remember when formulating your hypothesis, change only one variable so that you will know it’s really that variable that is causing the change in conversion..
+**What problem are we trying to solve? What is its impact?**
 
-Experiment - Detail out the experiment setup that you will use to test your hypothesis using Firebase capabilities. Describe the audiences – will all users be able to view the experiment? Or you will only allocate x% of your user base to the experiment? Lay out the details with the rationale behind this decision. Describe the tracking using Firebase Analytics. With your HEART metrics, what tracking needs to be set up? 
+The current login page may not provide enough encouragement or information to motivate users to log in. A generic welcome message may fail to create a positive first impression or remind users of the value of the application. This could contribute to fewer users completing the login process, ultimately reducing user engagement and adoption. Improving the welcome message could create a more inviting experience and encourage users to complete the login process.
 
-Variations - In this section, describe what variations you would like to test. Layout the design work related and add diagrams, mockups and designs related to the confirmed variation that you’d like to test.
+**Experiment:**
 
-Each team member must have a separate A/B test description committed to the ABTEST.md file. TAs check the commit history of ABTEST.md when grading.
+We will use Firebase A/B Testing and Firebase Remote Config to test two different welcome messages on the login page.
 
-Each team member is add to the team GitHub Project a PBI task card for their A/B test, where it is a task under the user story it is testing.  Each PBI’s content should be the text copied from ABTEST.md as described above.  Add a label to your repo for “A/B Test”. And put that "A/B Test" label, along with the correct user story label, on each of these PBI cards.
+- **Audience:** All users who visit the login page will be eligible for the experiment.
+- **User Allocation:** Users will be randomly divided into two groups, with 50% assigned to the control group and 50% assigned to the variation group.
+- **Control Group (A):** Users will see the current welcome message.
+- **Variation Group (B):** Users will see the new, more engaging welcome message.
+- **Duration:** The experiment will run for approximately one weeks to collect enough data to compare the results.
+- **Tracking:** Firebase Analytics will track the following events:
+  - `login_page_view`: Tracks when a user visits the login page.
+  - `login_attempt`: Tracks when a user attempts to log in.
+  - `login_success`: Tracks when a user successfully logs in.
+  - `login_failure`: Tracks unsuccessful login attempts.
+
+We will compare the login success rate between the two groups to determine whether the new welcome message improves successful logins. We will also compare login attempts and failures to better understand user behavior.
+
+**Variations:**
+
+**Control (A) – Current Welcome Message**
+
+Users will see the existing login page welcome message without any changes.
+
+**Variation (B) – Updated Welcome Message**
+
+Users will see a more engaging and informative welcome message designed to encourage them to log in.
+
+Example:
+
+- **Control (A):** "Real-time availability for students and faculty across all campus zones."
+- **Variation (B):** "Welcome Back! Your Next Experience Starts Here. Log In to Continue!"
+
+Only the welcome message will change between the two variations. The login form, buttons, colors, and overall layout will remain identical to ensure that the experiment measures the impact of the welcome message alone.
