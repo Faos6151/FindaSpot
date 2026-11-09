@@ -50,3 +50,66 @@ Example:
 - **Variation (B):** "Welcome Back! Your Next Experience Starts Here. Log In to Continue!"
 
 Only the welcome message will change between the two variations. The login form, buttons, colors, and overall layout will remain identical to ensure that the experiment measures the impact of the welcome message alone.
+
+
+## A/B Test Name 2: "Profile Tagline and Notifications".
+
+**Metrics:**
+- **Task Success:** Measure the percentage of users who complete the onboarding.
+- **Adoption:** Measure the number of users who successfully complete the onboarding and continue to using the application.
+
+**Hypothesis:**
+
+We believe that users are more likely to complete the onboarding if the tag line "Park Easy" is shown and the notification section is removed form the onboarding flow, as it will allow less content to be shown on the page and give users an easier time to complete it. 
+
+**What problem are we trying to solve? What is its impact?**
+
+The set up profile page may be a bit cluttered and might not be the most motivational for users to complete. The simple tagline and direct notification button may cause some resistance for users to start using the application. This could lead to fewer users, reducing engagement for the app and adoption. 
+
+**Experiment:**
+
+For this experiment 50% of users will get the normal screen with the text "Personalize your experience" with the notification toggle while the other 50% will get the new screen with the tagline "Park Easy" and no notification toggle for real time spot reports, auto detect location.
+
+- **Duration:** The experiment will run for approximately one weeks to collect enough data to compare the results.
+
+**Variations:**
+
+**Control (A) – Current Welcome Message**
+
+or this experiment 50% of users will get the normal screen with the text "Personalize your experience
+
+**Variation (B) – Updated Welcome Message**
+
+Notification toggle while the other 50% will get the new screen with the tagline "Park Easy" and no notification toggle for real time spot reports.
+
+
+## **A/B Test Name 3: “Map Layer Options: Topographical and Satellite View”**
+
+**Metrics**
+
+**User Story Number:** 3
+Task Success: Measure the percentage of users who successfully find and use their intended map view (e.g., switch layers and then complete a navigation or location-search action within the same session).
+
+Adoption: Measure the number of users who use the map layer feature and continue to return to the map widget in later sessions.
+
+**Hypothesis**
+
+We believe that users are more likely to engage with the map widget and complete location-based tasks if topographical and satellite views are offered through a clearly labeled layer control. Users can then match the map to their goal (terrain for hiking, satellite for visual landmarks) without leaving the widget, which should reduce friction and increase task completion.
+
+What problem are we trying to solve? What is its impact?
+
+The map widget currently offers a single default view, which may not suit every use case. Users who need elevation detail or real-world imagery may feel the map lacks the information they need, leading them to leave the app for another map provider. This could reduce time spent in the app, lower task completion, and hurt retention and adoption.
+
+**Experiment**
+
+For this experiment, 50% of users will see the current map widget with the standard default view only. The other 50% will see the updated widget with a layer toggle offering Default, Topographical, and Satellite views.
+
+Duration: The experiment will run for approximately two weeks to collect enough data, including weekday and weekend usage patterns, to compare results.
+
+**Variations**
+
+Control (A): Current Map Widget
+Users see the standard map with no option to change the view. Zoom, pan, and search behave as they do today.
+
+Variation (B): Updated Map Widget with Layer Options
+Users see the same map plus a layer button (top-right corner) that lets them switch between Default, Topographical, and Satellite views. The selected view persists for the rest of the session.
